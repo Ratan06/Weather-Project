@@ -1,7 +1,7 @@
 # Weather-Genie-Project
-Done by
+Done by:
 1. V.N.Ratan Kumar
 2. Adithi Reddy
 
-Mentor
+Mentor:
 Kshitij Saxena
