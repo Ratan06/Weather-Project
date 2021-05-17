@@ -42,7 +42,7 @@ function city() {
         document.body.appendChild(element);
         element.click();
     }
-    else if(city==="")
+    else if(city!=="(new york,new delhi,tokyo,london,manipal,hyderabad)")
     {
         const element= document.createElement("a");
         element.href= "https://www.accuweather.com/";
