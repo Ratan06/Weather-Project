@@ -14,4 +14,4 @@ You can search for weather in the areas(all enteries in lower case)
 5. Manipal
 6. Hyderabad
 
-To search for other localities just click the search button without entering any locality and you will be redirected to Accuweather website
+To search for other localities enter the locality and click the search button and you will be redirected to Accuweather website
